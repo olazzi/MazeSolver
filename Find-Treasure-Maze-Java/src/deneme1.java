@@ -1,4 +1,4 @@
-// Enes YARDIM - 13213245090
+// Enes YARDIM 
 //section02
 import java.util.*;
 import java.awt.Point;
